@@ -1,10 +1,10 @@
 # --------------------------------------------
 # TemplateCreator
 #
-# Generates DynamicComponents-AI2 schemas by
+# Generates DynamicComponents and Recycler List View  schemas by
 # parsing App Inventor project file automatically.
 #
-# - Yusuf Cihan
+# - Gitswebtech
 #
 # MIT license.
 # --------------------------------------------

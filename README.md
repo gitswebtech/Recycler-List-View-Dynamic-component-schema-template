@@ -1,4 +1,4 @@
-# ⚡ Template Creator <small>for Dynamic Components AI2</small>
+# ⚡ Template Creator <small>forRecycler List View and Dynamic Components Appzard</small>
 This sub-project allows you to create templates from App Inventor Project files automatically! So you don't need to write templates manually anymore!
 
 It includes two scripts. `TemplateCreate.py` does the main job which is generating the template, and `menu.py` is made for you to access the `TemplateCreate.py` easily.
